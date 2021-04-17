@@ -1,0 +1,23 @@
+body {
+    background-color: indianred;
+}
+
+h1 {
+    color: white
+}
+
+div {
+    background-color: darkolivegreen;
+}
+
+p {
+    background-color: brown;
+}
+
+#content {
+    background-color: green;
+}
+
+.quotation {
+    background-color: blueviolet;
+}
